@@ -1,0 +1,18 @@
+/home/0xAckerman/learning/rusttodoapp/backend/target/debug/deps/typenum-47e2e8ad30d6c525.rmeta: /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/lib.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/bit.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/int.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/marker_traits.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/operator_aliases.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/private.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/type_operators.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/uint.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/array.rs /home/0xAckerman/learning/rusttodoapp/backend/target/debug/build/typenum-2e9c4606bc59b89d/out/op.rs /home/0xAckerman/learning/rusttodoapp/backend/target/debug/build/typenum-2e9c4606bc59b89d/out/consts.rs
+
+/home/0xAckerman/learning/rusttodoapp/backend/target/debug/deps/typenum-47e2e8ad30d6c525.d: /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/lib.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/bit.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/int.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/marker_traits.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/operator_aliases.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/private.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/type_operators.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/uint.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/array.rs /home/0xAckerman/learning/rusttodoapp/backend/target/debug/build/typenum-2e9c4606bc59b89d/out/op.rs /home/0xAckerman/learning/rusttodoapp/backend/target/debug/build/typenum-2e9c4606bc59b89d/out/consts.rs
+
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/lib.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/bit.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/int.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/marker_traits.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/operator_aliases.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/private.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/type_operators.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/uint.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.16.0/src/array.rs:
+/home/0xAckerman/learning/rusttodoapp/backend/target/debug/build/typenum-2e9c4606bc59b89d/out/op.rs:
+/home/0xAckerman/learning/rusttodoapp/backend/target/debug/build/typenum-2e9c4606bc59b89d/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/home/0xAckerman/learning/rusttodoapp/backend/target/debug/build/typenum-2e9c4606bc59b89d/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/home/0xAckerman/learning/rusttodoapp/backend/target/debug/build/typenum-2e9c4606bc59b89d/out/op.rs
