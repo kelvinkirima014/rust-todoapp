@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["FormData","A `Stream` of multipart/form-data parts."],["Part","A single “part” of a `multipart/form-data` body."]]};

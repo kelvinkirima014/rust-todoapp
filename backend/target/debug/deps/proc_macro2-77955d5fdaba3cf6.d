@@ -1,0 +1,12 @@
+/home/0xAckerman/learning/rusttodoapp/backend/target/debug/deps/proc_macro2-77955d5fdaba3cf6.rmeta: /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/lib.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/marker.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/parse.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/rcvec.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/detection.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/fallback.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/extra.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/wrapper.rs
+
+/home/0xAckerman/learning/rusttodoapp/backend/target/debug/deps/proc_macro2-77955d5fdaba3cf6.d: /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/lib.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/marker.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/parse.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/rcvec.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/detection.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/fallback.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/extra.rs /home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/wrapper.rs
+
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/lib.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/marker.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/parse.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/rcvec.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/detection.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/fallback.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/extra.rs:
+/home/0xAckerman/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.56/src/wrapper.rs:

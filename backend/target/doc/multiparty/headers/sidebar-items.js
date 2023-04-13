@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Error","Error encountered while parsing the `Content-Disposition` and `Content-Type` headers."],["Headers","Parsed `Content-Disposition` and `Content-Type` headers."],["RawHeaders","Raw unparsed headers"]]};

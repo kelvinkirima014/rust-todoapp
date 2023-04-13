@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Error","An error while decoding the multipart stream"],["Read","An item read from [`FormData`]"]],"struct":[["FormData","Sans IO multipart decoder"]]};
