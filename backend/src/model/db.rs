@@ -6,7 +6,6 @@ use std::time::Duration;
 use sqlx::{ Pool, Postgres };
 use sqlx::postgres::PgPoolOptions;
 
-#[allow(unused)]
 const POSTGRES_HOST: &str = "localhost";
 const POSTGRES_DB_NAME: &str = "postgres";
 const POSTGRES_ROOT_USER: &str = "postgres";
@@ -29,12 +28,5 @@ async fn new_db_pool(host: &str, db_name: &str, user: &str, password: &str, max_
 }
 
 #[cfg(test)]
-mod tests {
-    use super::init_db;
-
-    #[tokio::test]
-    async fn model_db_init_db() -> Result<(), Box<dyn std::error::Error>> {
-
-        Ok(())
-    }
-}
+#[path = "../_tests/model_db.rs"]
+mod tests;
